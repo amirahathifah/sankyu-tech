@@ -33,8 +33,3 @@
 - Show total workmanship for current product
 
 Total Workmanship : Weight x Workmanship(Capital/Sale)
-
-
-Kindly put your work at github and share us the repository link in public access mode. 
-
-Thank you and all the best! ✨
